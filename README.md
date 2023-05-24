@@ -1,4 +1,7 @@
-# Curso de manipulación y Transformación de Datos con Pandas y NumPy
+# Curso de manipulación y Transformación de Datos con Pandas y NumPy  
+
+env usado  
+``` pip install -r requirements.txt```  
 
 Clase 1: [Numpy Array](Clase1.ipynb)  
 Clase 2: [Tipos de Datos](Tipos-de-datos.ipynb)  
