@@ -12,5 +12,3 @@ Clase 6: [Funciones Principales de Numpy](funciones-principales-numpy.ipynb)
 Clase 7: [Copiar Arrays en Numpy](Copy.ipynb)  
 
 
-EJEMPLO DE HY
-
