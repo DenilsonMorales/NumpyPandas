@@ -10,5 +10,12 @@ Clase 4: [Creando Arrays](creando-arrays.ipynb)
 Clase 5: [Shape y Reshape](shape-y-reshape.ipynb)  
 Clase 6: [Funciones Principales de Numpy](funciones-principales-numpy.ipynb)  
 Clase 7: [Copiar Arrays en Numpy](Copy.ipynb)  
+Clase 8: [Operaciones Numpy](operaciones.ipynb)  
+Clase 9: [Pandas](pandas.ipynb)  
+Clase 9: [Funciones principales pandas](funcciones_principales_pandas.ipynb)  
+Clase 10: [Lectura de CSV y JSON](jsonycsv.ipynb)  
+Clase 11: [Condiciones Pandas](condiciones_pandas.ipynb)  
+Clase 12: [Uso Loc y iLoc](cargando-archivos-y-loc-iloc.ipynb)  
+Clase 13: [Group By](groupby.ipynb)  
 
 
