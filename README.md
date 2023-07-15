@@ -18,5 +18,7 @@ Clase 11: [Condiciones Pandas](condiciones_pandas.ipynb)
 Clase 12: [Uso Loc y iLoc](cargando-archivos-y-loc-iloc.ipynb)  
 Clase 13: [Group By](groupby.ipynb)   
 Clase 14: [Concat y Merge](concat_merge_join.ipynb)  
+Clse 15: [Join](join.ipynb)  
+Clase 16: [Pivot Table](pivot_table.ipynb)  
 
 
