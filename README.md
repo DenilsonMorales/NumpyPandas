@@ -20,5 +20,5 @@ Clase 13: [Group By](groupby.ipynb)
 Clase 14: [Concat y Merge](concat_merge_join.ipynb)  
 Clse 15: [Join](join.ipynb)  
 Clase 16: [Pivot Table](pivot_table.ipynb)  
-
+Clase 17: [Apply](apply.ipynb)
 
