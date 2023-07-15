@@ -16,6 +16,7 @@ Clase 9: [Funciones principales pandas](funcciones_principales_pandas.ipynb)
 Clase 10: [Lectura de CSV y JSON](jsonycsv.ipynb)  
 Clase 11: [Condiciones Pandas](condiciones_pandas.ipynb)  
 Clase 12: [Uso Loc y iLoc](cargando-archivos-y-loc-iloc.ipynb)  
-Clase 13: [Group By](groupby.ipynb)  
+Clase 13: [Group By](groupby.ipynb)   
+Clase 14: [Concat y Merge](concat_merge_join.ipynb)  
 
 
